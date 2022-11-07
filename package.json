@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vmartins/awesome-cordova-plugins-autostart.git"
+        "url": "https://github.com/alindzon/awesome-cordova-plugins-autostart.git"
     },
     "name": "awesome-cordova-plugins-autostart",
     "dependencies": {
@@ -15,7 +15,7 @@
     },
     "peerDependencies": {
         "rxjs": "^5.5.0 || ^6.5.0 || ^7.3.0",
-        "@awesome-cordova-plugins/core": "^5.1.0"
+        "@awesome-cordova-plugins/core": "^6.0.1"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
