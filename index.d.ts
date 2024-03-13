@@ -19,7 +19,7 @@ import { AwesomeCordovaNativePlugin } from '@awesome-cordova-plugins/core';
  *
  * ```
  */
-export declare class AutostartOriginal extends AwesomeCordovaNativePlugin {
+export declare class Autostart extends AwesomeCordovaNativePlugin {
     /**
      * Enable the automatic startup of your app after the boot
      *
@@ -41,4 +41,3 @@ export declare class AutostartOriginal extends AwesomeCordovaNativePlugin {
     disable(): Promise<any>;
 }
 
-export declare const Autostart: AutostartOriginal;
